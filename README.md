@@ -6,3 +6,5 @@ OculusClient.exe
 OVRRedir.exe
 OVRServer_x64.exe
 OVRServiceLauncher.exe
+
+Must run as Admin, or else it can't terminate some processes.
